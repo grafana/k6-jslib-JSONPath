@@ -1,7 +1,7 @@
 node_modules
 test
 test-helpers
-rollup.config.js
+rollup.config.mjs
 lgtm.yml
 .travis.yml
 .DS_Store
